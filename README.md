@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kaiweicai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @cloudwei in china
+- 👀 I’m interested in rust,ink!,Gear,substrate,web3,defi,trading
+- 🌱 I’m currently learning rust,ink!,Gear,substrate
+- 💞️ I’m looking to collaborate on contract of solidity or ink!
+- 📫 How to reach me cloudweisz@163.com
 
-<!---
-kaiweicai/kaiweicai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
